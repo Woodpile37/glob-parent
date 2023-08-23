@@ -28,7 +28,7 @@
   "devDependencies": {
     "eslint": "^8.46.0",
     "eslint-config-gulp": "^5.0.0",
-    "expect": "^26.0.1",
+    "expect": "^29.6.2",
     "mocha": "^10.1.0",
     "nyc": "^15.0.1"
   },
